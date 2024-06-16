@@ -1,79 +1,17 @@
+body  {
+   background-image: url(/app/rr.png);
+   
+
+}
 div {
-    background: coral;
-    height: 300px;
-    width: 300px;
+  background-image: url(app/kk.jpg);
+  background-color: navajowhite;
 
-
-}
-div h1 {
-
-    font-size: 20px;
-    color: chartreuse;
-    padding-top: 10px;
-    text-align: center;
-    
-}
-div p {
-    color: rgb(255, 217, 0);
-    font-size: 15px;
-
-
-}
-
-#dost_ke {
-    background: crimson;
-    height: 300px;
-    width: 300px;
-    
-
-
-}
-#dost_ke h1 {
-    color: aqua;
-    font-size: 10px;
-
-
-
-
-}
-.hridoy {
-
-    background: deeppink;
-    height: 500px;
-    width: 500px;
-    margin: auto;
-
-}
-
-.hridoy h1 {
-    text-align: right;
-    font-size: 30px;
-    color: black;
-    padding: 10px;
-
-    
-
-
-}
-.hridoy p {
-    font-size: 30px;
-    color: darkmagenta;
-    text-align: center;
-    padding: 10px;
-
-
-
-
+  background-size: 150px 150px;
+  background-repeat: no-repeat;
 
 
 
 }
 
-.koi_ra , .hridoy {
 
-    background: deeppink;
-    height: 500px;
-    width: 500px;
-    margin: auto;
-
-}

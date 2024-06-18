@@ -1,14 +1,33 @@
 body  {
    background-image: url(/app/rr.png);
-   
+   background-attachment: fixed;
 
 }
 div {
   background-image: url(app/kk.jpg);
-  background-color: navajowhite;
+  background-color: hsl(39, 7%, 62%);
 
   background-size: 150px 150px;
   background-repeat: no-repeat;
+  background-position: center;
+
+
+
+}
+#hridoy {
+background-color: hsl(247, 25%, 46%);
+background-image: url(app/jj.jpg);
+background-repeat: no-repeat;
+background-size: 100px 100px;
+background-position: right +20px;
+
+
+}
+#hridoy h3 {
+  border-style:outset;
+  border-width: 10px;
+  border-color: blueviolet;
+
 
 
 

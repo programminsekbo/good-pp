@@ -1,34 +1,31 @@
- .lal {
-  background-color:#ffa500 ;
-  height: 150px;
-  ;
+div,.sobuj{
 
+height: 400px;
+width: 800px;
+background-color: green;
+border:5px solid green;
 
+overflow: hidden;
 
 }
- .hid {
-  background-color: #f5f5dc;
-  height: 150px;
-  border: 2px solid #f5f5dc;
+.lal{
+  height: 250px;
+  width: 250px;
+  background-color: red;
+  border-radius: 130px;
+  margin: 80px auto;
   overflow: hidden;
-
-}
-.gren{
-   background-color:#0C6302;
-   height: 150px;
-   border: 2px solid #0C6302;
+   box-shadow: -8px 10px 10px green;
 
 
 }
-.mama {
-      background-color: black;
-      height: 80px;
-      width: 80px;
-      border-radius: 40px;
-      margin: 30px auto;
+img {
+  width: 50%;
+  margin: 50px auto;
+  display: block;
+  border-radius: 50px;
+box-shadow: 5px  10px 10px red;
 
 
 
 }
-
-
